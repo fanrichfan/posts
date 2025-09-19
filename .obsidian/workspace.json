@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +177,7 @@
       "share-to-notionnext:分享到 NotionNext": false
     }
   },
-  "active": "9acf57cf91d3752e",
+  "active": "8af8ecbc2feaebfb",
   "lastOpenFiles": [
     "未命名.base"
   ]
