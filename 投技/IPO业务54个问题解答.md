@@ -2,9 +2,16 @@
 title: IPO业务54个问题解答
 type: posts
 cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/投技.jpg
-categories: [投技]
-tags: [IPO]
+categories:
+  - 投技
+tags:
+  - IPO
 date: 2023-10-30
+stats: published
+"type:": Post
+coverurl: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/投技.jpg
+NotionID-notion: 273977e7-bf54-8152-8ca1-f098945586d0
+link-notion: https://richfan.notion.site/IPO-54-273977e7bf5481528ca1f098945586d0
 ---
 
 关于发行审核业务问答部分条款调整事项的通知

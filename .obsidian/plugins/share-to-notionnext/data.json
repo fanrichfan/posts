@@ -26,7 +26,23 @@
       "tagButton": true,
       "customTitleButton": false,
       "customTitleName": "",
-      "customProperties": [],
+      "customProperties": [
+        {
+          "customName": "title",
+          "customType": "title",
+          "index": 0
+        },
+        {
+          "customName": "type",
+          "customType": "rich_text",
+          "index": 1
+        },
+        {
+          "customName": "",
+          "customType": "",
+          "index": 2
+        }
+      ],
       "saved": true
     }
   }
