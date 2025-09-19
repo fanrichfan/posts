@@ -108,3 +108,7 @@ git submodule update --remote --merge themes/anzhiyu
 git submodule update --remote --merge content/posts
 git submodule update --remote --merge themes/FixIt
 ```
+
+## 添加多个仓库
+
+git remote set-url --add origin 
