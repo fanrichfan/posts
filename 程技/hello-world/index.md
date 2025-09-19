@@ -111,4 +111,4 @@ git submodule update --remote --merge themes/FixIt
 
 ## 添加多个仓库
 
-git remote set-url --add origin 
+git remote set-url --add origin https://gitee.com/richfan/posts.git
